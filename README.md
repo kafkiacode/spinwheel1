@@ -2,8 +2,11 @@
 
 Based on version 1.0 of https://github.com/HIVERY/spin_the_wheel/
 
-Make a gentle spin clockwise to spin the wheel.
+Make a gentle drag clockwise to spin the wheel.
 
+Play it at https://kafkiacode.github.io/spinningwheel/
+
+## Install and run
 Install dependencies using `npm install`.
 
 Run the demo using `npm start` and visiting http://localhost:3000.
